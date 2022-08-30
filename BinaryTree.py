@@ -355,6 +355,9 @@ if __name__ == '__main__':
     print(binary_tree_3.checkPerfect(binary_tree_3.root))
 
 
+
+
+# ------------------------------------------------------------------------------------------------------------
 class BinaryTreeEx(BinaryTree):
 
     # Aux. method to print the uncles of a node
